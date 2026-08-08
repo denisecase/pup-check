@@ -49,10 +49,10 @@ Follow these steps when creating a new release.
 
 ````shell
 uv lock --upgrade
-uv sync --extra dev --extra docs
+uv sync --upgrade
 uv run pre-commit install
 
-uv run pup-up
+uv run pup-check
 
 git add -A
 uv run pre-commit run --all-files
