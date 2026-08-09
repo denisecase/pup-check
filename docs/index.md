@@ -1,6 +1,6 @@
 # pup-check
 
-<img src="images/pup.png" alt="pup-clean logo" width="110">
+<img src="images/pup.png" alt="pup logo" width="110">
 
 `pup-check` brings a Python repository up to a managed professional baseline.
 
