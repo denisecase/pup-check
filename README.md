@@ -13,7 +13,10 @@
 [![Links](https://github.com/denisecase/pup-check/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/denisecase/pup-check/actions/workflows/links.yml)
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/denisecase/pup-check/security)
 
-<img src="images/pup.png" alt="pup-clean logo" width="110">
+<img
+src="https://raw.githubusercontent.com/denisecase/pup-check/main/docs/images/pup.png"
+alt="pup logo"
+width="110">
 
 > Opinionated professional Python repository self-consistency checker
 
@@ -116,6 +119,10 @@ git push -u origin main
 ```
 
 </details>
+
+## Documentation
+
+- [Documentation](https://denisecase.github.io/pup-check/)
 
 ## Annotations
 
