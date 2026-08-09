@@ -31,15 +31,16 @@ classifiers = [
     "Typing :: Typed",
 ]
 keywords = [
-    "repository-baseline",
-    "repository-templates",
-    "template-management",
-    "developer-tooling",
-    "command-line-tool",
-    "python",
-    "uvx",
-    "automation",
-    "software-architecture",
+  "repository-consistency",
+  "project-validation",
+  "python-projects",
+  "developer-tooling",
+  "command-line-tool",
+  "python",
+  "uvx",
+  "automation",
+  "software-quality",
+  "software-architecture",
 ]
 
 dependencies = [
@@ -238,6 +239,5 @@ packages = ["src/pup_check"]
 fallback-version = "0.0.4"
 # WHY: Version is derived from git tags at build time.
 source = "vcs"
-# WHY: Allow hatch-vcs to find the Git root from isolated build contexts.
-search_parent_directories = true
-tag-pattern = "^(?:v)?(?P<version>\\d+\\.\\d+\\.\\d+)$"
+# WHY: Accept semantic-version tags with or without a leading v.
+tag-pattern = '^(?:v)?(?P<version>\d+\.\d+\.\d+)$'
