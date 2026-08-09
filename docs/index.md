@@ -1,5 +1,7 @@
 # pup-check
 
+<img src="images/pup.png" alt="pup-clean logo" width="110">
+
 `pup-check` brings a Python repository up to a managed professional baseline.
 
 It is designed for repositories that follow repeatable professional patterns
@@ -57,11 +59,6 @@ should not be overwritten automatically.
 Examples include source code, tests, notebooks, data files,
 SQL files, and project-specific documentation.
 
-## Long-Term Goal
+## See Also
 
-The goal of `pup-check` is to make repository maintenance boring.
-
-A maintainer should be able to open one repository,
-bring the shared infrastructure up to the current baseline,
-review the remaining project-specific work,
-and continue working on the actual package or software artifact.
+- [API](./api.md)

@@ -1,4 +1,4 @@
-# pup-check: Professional Python Project Updater: Repo Self Consistency Checker
+# pup-check: Professional Python Project: Repo Self Consistency Checker
 
 [![PyPI](https://img.shields.io/pypi/v/pup-check?logo=pypi&label=pypi)](https://pypi.org/project/pup-check/)
 [![Docs Site](https://img.shields.io/badge/docs-site-blue?logo=github)](https://denisecase.github.io/pup-check/)
@@ -12,6 +12,8 @@
 [![Release](https://github.com/denisecase/pup-check/actions/workflows/release-pypi.yml/badge.svg)](https://github.com/denisecase/pup-check/actions/workflows/release-pypi.yml)
 [![Links](https://github.com/denisecase/pup-check/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/denisecase/pup-check/actions/workflows/links.yml)
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/denisecase/pup-check/security)
+
+<img src="images/pup.png" alt="pup-clean logo" width="110">
 
 > Opinionated professional Python repository self-consistency checker
 
