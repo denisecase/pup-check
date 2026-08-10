@@ -236,7 +236,7 @@ packages = ["src/pup_check"]
 
 [tool.hatch.version]
 # Used when no git tags are present. Keep in sync with CITATION.cff.
-fallback-version = "0.1.1"
+fallback-version = "0.1.2"
 # WHY: Version is derived from git tags at build time.
 source = "vcs"
 # WHY: Accept semantic-version tags with or without a leading v.
