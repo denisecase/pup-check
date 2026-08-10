@@ -13,9 +13,17 @@ and this project adheres to **[Semantic Versioning](https://semver.org/spec/v2.0
 
 ---
 
+## [0.1.1] - 2026-08-10
+
+- updated the organization
+
+---
+
 ## [0.1.0] - 2026-08-10
 
 - transferred to pup-pack
+
+---
 
 ## [0.0.5] - 2026-08-09
 
@@ -104,9 +112,10 @@ git push origin :refs/tags/vX.Z.Y
 
 ## Links
 
-[Unreleased]: https://github.com/denisecase/pup-check/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/denisecase/pup-check/releases/tag/v0.1.0
-[0.0.5]: https://github.com/denisecase/pup-check/releases/tag/v0.0.5
-[0.0.4]: https://github.com/denisecase/pup-check/releases/tag/v0.0.4
+[Unreleased]: https://github.com/pup-pack/pup-check/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/pup-pack/pup-check/releases/tag/v0.1.1
+[0.1.0]: https://github.com/pup-pack/pup-check/releases/tag/v0.1.0
+[0.0.5]: https://github.com/pup-pack/pup-check/releases/tag/v0.0.5
+[0.0.4]: https://github.com/pup-pack/pup-check/releases/tag/v0.0.4
 
 <!-- markdownlint-enable MD024 -->

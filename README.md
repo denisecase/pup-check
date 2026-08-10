@@ -1,20 +1,20 @@
 # pup-check: Professional Python Project: Repo Self Consistency Checker
 
 [![PyPI](https://img.shields.io/pypi/v/pup-check?logo=pypi&label=pypi)](https://pypi.org/project/pup-check/)
-[![Docs Site](https://img.shields.io/badge/docs-site-blue?logo=github)](https://denisecase.github.io/pup-check/)
-[![Repo](https://img.shields.io/badge/repo-GitHub-black?logo=github)](https://github.com/denisecase/pup-check)
+[![Docs Site](https://img.shields.io/badge/docs-site-blue?logo=github)](https://pup-pack.github.io/pup-check/)
+[![Repo](https://img.shields.io/badge/repo-GitHub-black?logo=github)](https://github.com/pup-pack/pup-check)
 [![Python 3.15](https://img.shields.io/badge/python-3.15%2B-blue?logo=python)](./pyproject.toml)
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](./LICENSE)
 
-[![CI](https://github.com/denisecase/pup-check/actions/workflows/ci-python-zensical.yml/badge.svg?branch=main)](https://github.com/denisecase/pup-check/actions/workflows/ci-python-zensical.yml)
-[![Docs-Deploy](https://github.com/denisecase/pup-check/actions/workflows/deploy-zensical.yml/badge.svg?branch=main)](https://github.com/denisecase/pup-check/actions/workflows/deploy-zensical.yml)
-[![Pre-Release](https://github.com/denisecase/pup-check/actions/workflows/pre-release.yml/badge.svg?branch=main)](https://github.com/denisecase/pup-check/actions/workflows/pre-release.yml)
-[![Release](https://github.com/denisecase/pup-check/actions/workflows/release-pypi.yml/badge.svg)](https://github.com/denisecase/pup-check/actions/workflows/release-pypi.yml)
-[![Links](https://github.com/denisecase/pup-check/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/denisecase/pup-check/actions/workflows/links.yml)
-[![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/denisecase/pup-check/security)
+[![CI](https://github.com/pup-pack/pup-check/actions/workflows/ci-python-zensical.yml/badge.svg?branch=main)](https://github.com/pup-pack/pup-check/actions/workflows/ci-python-zensical.yml)
+[![Docs-Deploy](https://github.com/pup-pack/pup-check/actions/workflows/deploy-zensical.yml/badge.svg?branch=main)](https://github.com/pup-pack/pup-check/actions/workflows/deploy-zensical.yml)
+[![Pre-Release](https://github.com/pup-pack/pup-check/actions/workflows/pre-release.yml/badge.svg?branch=main)](https://github.com/pup-pack/pup-check/actions/workflows/pre-release.yml)
+[![Release](https://github.com/pup-pack/pup-check/actions/workflows/release-pypi.yml/badge.svg)](https://github.com/pup-pack/pup-check/actions/workflows/release-pypi.yml)
+[![Links](https://github.com/pup-pack/pup-check/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/pup-pack/pup-check/actions/workflows/links.yml)
+[![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen.svg)](https://github.com/pup-pack/pup-check/security)
 
 <img
-src="https://raw.githubusercontent.com/denisecase/pup-check/main/docs/images/pup.png"
+src="https://raw.githubusercontent.com/pup-pack/pup-check/main/docs/images/pup.png"
 alt="pup logo"
 width="110">
 
@@ -77,7 +77,7 @@ This release checks:
 Open a machine terminal where you want the project:
 
 ```shell
-git clone https://github.com/denisecase/pup-check
+git clone https://github.com/pup-pack/pup-check
 
 cd pup-check
 code .
@@ -122,7 +122,7 @@ git push -u origin main
 
 ## Documentation
 
-- [Documentation](https://denisecase.github.io/pup-check/)
+- [Documentation](https://pup-pack.github.io/pup-check/)
 
 ## Annotations
 
